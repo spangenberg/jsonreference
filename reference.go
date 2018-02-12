@@ -30,7 +30,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/PuerkitoBio/purell"
+	"github.com/spangenberg/purell"
 	"github.com/go-openapi/jsonpointer"
 )
 
